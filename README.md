@@ -1,13 +1,17 @@
-# README
-## This is the README for your extension "infuse-js-dark"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Infuse.js Dark
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+> Infuse.js Dark syntax theme
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+[![Demo of Infuse.js Dark syntax theme](./demo.png)](./demo.png)
+
+All one has to do is clone this repo into the VS Code extensions directory.
+
+On macOS, this is located in a hidden folder:
+
+```console
+~/.vscode/extensions
+```
 
 **Enjoy!**
+
+<small>This is the README for VS Code extension: "infuse-js-dark"</small>
