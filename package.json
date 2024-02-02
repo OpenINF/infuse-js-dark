@@ -1,0 +1,21 @@
+{
+    "name": "infuse-js-dark",
+    "displayName": "Infuse.js Dark",
+    "description": "Infuse.js Dark syntax theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.38.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Infuse.js Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Infuse.js Dark-color-theme.json"
+            }
+        ]
+    }
+}
