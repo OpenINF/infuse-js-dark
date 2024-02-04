@@ -22,4 +22,10 @@ cloned into the extensions directory _and_ installed via the command palette opt
 
 **Enjoy!**
 
-<small>This is the README for VS Code extension: "infuse-js-dark"</small>
+<small>This is the README for VS Code extension: "infuse-js-dark".</small>
+
+<small>This syntax theme was originally inspired by [Blackboard][];
+however, a significant amount of modifications we made to it. Among those
+modifications include representing the color palette in an entirely new format.</small>
+
+[Blackboard]: https://codemirror.net/5/demo/theme.html#blackboard
