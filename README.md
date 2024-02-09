@@ -11,7 +11,7 @@
 
 <br />
 
-[!['License: MIT/Apache-2.0/Blue-Oak-1.0.0'][license-badge--shields]][license-badge-url]
+[!['License: MIT/Apache-2.0/BlueOak-1.0.0'][license-badge--shields]][license-badge-url]
 
 </div>
 
@@ -124,16 +124,17 @@ href="https://open.inf.is&rdquo; rel="author">
 
 <!-- LINK LABEL DEFINITIONS - START -->
 
-[Blackboard]: https://codemirror.net/5/demo/theme.html#blackboard &ldquo;Blackboard Theme Demo"
-[Changelog]: https://github.com/OpenINF/infuse-js-dark/blob/main/CHANGELOG.md &ldquo;Change Log"
-[Credits]: https://github.com/OpenINF/infuse-js-dark/graphs/contributors &ldquo;Credits"
-[Development]: ./collections/_docs/development.md &ldquo;Development"
-[Issue Tracker]: https://github.com/OpenINF/infuse-js-dark/issues &ldquo;Issues · OpenINF/infuse-js-dark"
-[opening an issue]: https://github.com/OpenINF/infuse-js-dark/issues &ldquo;Issues · OpenINF/infuse-js-dark"
+[Blackboard]: https://codemirror.net/5/demo/theme.html#blackboard "Blackboard Theme Demo"
+[Changelog]: https://github.com/OpenINF/infuse-js-dark/blob/main/CHANGELOG.md "Change Log"
+[Credits]: https://github.com/OpenINF/infuse-js-dark/graphs/contributors "Credits"
+[Development]: ./collections/_docs/development.md "Development"
+[Issue Tracker]: https://github.com/OpenINF/infuse-js-dark/issues "Issues · OpenINF/infuse-js-dark"
+[opening an issue]: https://github.com/OpenINF/infuse-js-dark/issues "Issues · OpenINF/infuse-js-dark"
+[license-badge--url]: ./#license "Project Licenses"
 [project-status-badge--shields]: https://img.shields.io/badge/status-under%20construction-yellow.svg
 [project-type-badge--shields]: https://img.shields.io/badge/type-prototype-blue.svg
 [prototyping-scheme-badge--shields]: https://img.shields.io/badge/scheme-evolutionary-blue.svg
-[Roadmap]: https://github.com/OpenINF/infuse-js-dark/issues &ldquo;Roadmap"
-[spoiler-screen-cap]: ./assets/img/png/spoiler-screen-cap.png
+[Roadmap]: https://github.com/OpenINF/infuse-js-dark/issues "Roadmap"
+[spoiler-screen-cap]: ./assets/img/png/spoiler-screen-cap.png "Theme Spoiler Screen Cap"
 
 <!-- LINK LABEL DEFINITIONS - END -->
