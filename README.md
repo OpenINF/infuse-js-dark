@@ -1,10 +1,14 @@
-# Infuse.js Dark
+## Infuse.js Dark
 
 > Infuse.js Dark syntax theme
 
-[![Demo of Infuse.js Dark syntax theme](./demo.png)](./demo.png)
+[![Demo of Infuse.js Dark syntax theme][spoiler-screen-cap]][spoiler-screen-cap]
+
+<section id="installation">
 
 ## Installation
+
+<br />
 
 On macOS, all one has to do is clone this repo into the VS Code extensions directory.
 
@@ -22,26 +26,35 @@ cloned into the extensions directory _and_ installed via the command palette opt
 
 **Enjoy!**
 
+</section>
+
+<br /><br />
+
 <!-- <small>This is the README for VS Code extension: "infuse-js-dark".</small> -->
 
-his syntax theme was originally inspired by [Blackboard][];
-however, a significant amount of modifications we made to it. Among those
-modifications include representing the color palette in an entirely new format.
-
+The Infuse.js Dark syntax theme was originally inspired by the [Blackboard][]; color scheme
+however, a significant amount of modifications have been made to it. Among those modifications
+include representing the color palette now expressed in an entirely new format.
 
 <br /><br />
 
 ---
 
-<br />
+<section id="contributing">
 
 ### Contributing
 
-Pull requests are welcome. For major changes, please open an issue first to
-discuss what you would like to change. If for whatever reason you spot something
-to fix but cannot patch it yourself, please [open an issue][].
+<br />
+
+Pull requests are welcome. If you plan to make significant changes, please open
+an issue first to discuss the change. If you notice something that needs fixing
+but can't do it yourself, please let us know by [opening an issue][].
 
 <br />
+
+</section>
+
+<section id="license">
 
 ### License
 
@@ -54,6 +67,8 @@ at your option.
 
 The [SPDX](https://spdx.dev) license identifier for this project is
 `MIT OR Apache-2.0`.
+
+</section>
 
 <br /><br />
 
@@ -74,7 +89,7 @@ The [SPDX](https://spdx.dev) license identifier for this project is
 [!['Project Type: Prototype'][project-type-badge--shields]](##)
 [!['Prototyping Scheme: Evolutionary'][prototyping-scheme-badge--shields]](##)
 [!['Status: Under construction'][project-status-badge--shields]](##)
-  
+
 <br /><br />
 
 <a title="The OpenINF website" href="https://open.inf.is" rel="author">
@@ -84,30 +99,19 @@ The [SPDX](https://spdx.dev) license identifier for this project is
 </div>
 
 <br /><br />
-  
+
 <!-- LINK LABEL DEFINITIONS - START -->
 
 [Blackboard]: https://codemirror.net/5/demo/theme.html#blackboard
-[Roadmap]: https://github.com/OpenINF/openinf.github.io/issues 'Roadmap'
-[Development]: ./collections/_docs/development.md 'Development'
-[Issue Tracker]: https://github.com/OpenINF/openinf.github.io/issues 'Issue Tracker'
-[Changelog]: https://github.com/OpenINF/openinf.github.io/commits/live 'Changelog'
-[Credits]: https://github.com/OpenINF/openinf.github.io/graphs/contributors 'Credits'
-
+[Changelog]: https://github.com/OpenINF/infuse-js-dark/commits/live "Changelog"
+[Credits]: https://github.com/OpenINF/infuse-js-dark/graphs/contributors "Credits"
+[Development]: ./collections/_docs/development.md "Development"
+[Issue Tracker]: https://github.com/OpenINF/infuse-js-dark/issues "Issue Tracker"
+[opening an issue]: https://github.com/OpenINF/infuse-js-dark/issues
+[project-status-badge--shields]: https://img.shields.io/badge/status-under%20construction-yellow.svg
 [project-type-badge--shields]: https://img.shields.io/badge/type-prototype-blue.svg
 [prototyping-scheme-badge--shields]: https://img.shields.io/badge/scheme-evolutionary-blue.svg
-[project-status-badge--shields]: https://img.shields.io/badge/status-under%20construction-yellow.svg
-
-[netlify-badge-url]:
-  https://app.netlify.com/sites/open-inf-is/deploys?branch=live
-  "Netlify Status: Dynamic"
-[netlify-badge--dynamimg]:
-  https://api.netlify.com/api/v1/badges/1e33ed32-f4b4-4238-abe8-70e219408cf7/deploy-status?branch=live
-  "Netlify Status: Dynamic"
-[license-badge--shields]:
-  https://img.shields.io/badge/license-MIT%2FApache--2.0-blue.svg?logo=github
-  "License: MIT/Apache 2.0"
-[license-badge-url]: #license 'License: MIT/Apache 2.0'
-[open an issue]: https://github.com/OpenINF/openinf.github.io/issues
+[Roadmap]: https://github.com/OpenINF/infuse-js-dark/issues "Roadmap"
+[spoiler-screen-cap]: ./assets/img/png/spoiler-screen-cap.pngg
 
 <!-- LINK LABEL DEFINITIONS - END -->
