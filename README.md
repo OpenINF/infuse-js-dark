@@ -7,9 +7,10 @@
 <small>This is the README for VS Code extension: &ldquo;infuse-js-dark&ldquo;.</small>
 
 <!-- markdownlint-disable-next-line line-length -->
+
 <a title="The OpenINF website" target="_blank" rel="noopener noreferrer"
   href="https://open.inf.is" rel="author">
-  <img
+<img
     src="https://raw.githubusercontent.com/OpenINF/openinf.github.io/live/assets/img/svg/logogram-color.svg?sanitize=true"
     alt="OpenINF logo"
     title="OpenINF"
@@ -128,7 +129,7 @@ The [SPDX](https://spdx.dev) license identifier for this project is
 
 <a title="The OpenINF website" target="_blank" rel="noopener noreferrer"
 href="https://open.inf.is" rel="author">
-  <img
+<img
     alt="The OpenINF logo"
     height="32px"
     width="32px"
