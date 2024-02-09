@@ -156,5 +156,6 @@ href="https://open.inf.is" rel="author">
 [prototyping-scheme-badge--shields]: https://img.shields.io/badge/scheme-evolutionary-blue.svg
 [Roadmap]: https://github.com/OpenINF/infuse-js-dark/issues "Roadmap"
 [spoiler-screen-cap]: ./assets/img/png/spoiler-screen-cap.png "Theme Spoiler Screen Cap"
+[release-level-banner--unstable]: https://raw.githubusercontent.com/OpenINF/openinf.github.io/live/assets/img/svg/release-level-banner--unstable.svg?sanitize=true 'Banner for Release Level: Unstable'
 
 <!-- LINK LABEL DEFINITIONS - END -->
