@@ -52,7 +52,7 @@ include representing the color palette now expressed in an entirely new format.
 
 <section id="contribution">
 
-### Contributing
+## Contributing
 
 <br />
 
@@ -66,7 +66,7 @@ but can't do it yourself, please let us know by [opening an issue][].
 
 <section id="licenses">
 
-### License
+## License
 
 <br />
 
@@ -106,8 +106,14 @@ The [SPDX](https://spdx.dev) license identifier for this project is
 <br /><br />
 
 <a title="The OpenINF website" href="https://open.inf.is" rel="author">
-  <img alt="The OpenINF logo" height="32px" width="32px" src="https://raw.githubusercontent.com/openinf/openinf.github.io/live/assets/img/svg/logo.svg?sanitize=true" />
+  <img
+    alt="The OpenINF logo"
+    height="32px"
+    width="32px"
+    src="https://raw.githubusercontent.com/openinf/openinf.github.io/live/assets/img/svg/logo.svg?sanitize=true"
+  />
 </a>
+
 
 </div>
 
