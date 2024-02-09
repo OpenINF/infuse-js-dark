@@ -1,5 +1,6 @@
 {
     "name": "infuse-js-dark",
+    "license": "MIT OR Apache-2.0 OR BlueOak-1.0.0",
     "displayName": "Infuse.js Dark",
     "description": "Infuse.js Dark syntax theme",
     "version": "0.0.1",

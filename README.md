@@ -4,7 +4,7 @@
 
 [![Demo of Infuse.js Dark syntax theme][spoiler-screen-cap]][spoiler-screen-cap]
 
-<section id="installation">
+<section id="install">
 
 ## Installation
 
@@ -30,7 +30,7 @@ cloned into the extensions directory _and_ installed via the command palette opt
 
 <br /><br />
 
-<section id="backstory">
+<section id="history">
 
 ## Backstory
 
@@ -48,7 +48,7 @@ include representing the color palette now expressed in an entirely new format.
 
 ---
 
-<section id="contributing">
+<section id="contribution">
 
 ### Contributing
 
@@ -62,7 +62,7 @@ but can't do it yourself, please let us know by [opening an issue][].
 
 </section>
 
-<section id="license">
+<section id="licenses">
 
 ### License
 
@@ -70,11 +70,12 @@ This project is licensed under either of
 
 - [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0)
 - [MIT license](https://opensource.org/licenses/MIT)
+- [Blue Oak 1.0.0](https://blueoakcouncil.org/license/1.0.0)
 
 at your option.
 
 The [SPDX](https://spdx.dev) license identifier for this project is
-`MIT OR Apache-2.0`.
+`MIT OR Apache-2.0 OR BlueOak-1.0.0`.
 
 </section>
 
