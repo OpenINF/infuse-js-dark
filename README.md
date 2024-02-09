@@ -1,6 +1,25 @@
+<small>This is the README for VS Code extension: &ldquo;infuse-js-dark&ldquo;.</small>
+
+<!-- markdownlint-disable-next-line line-length -->
+<a href="##"><img src="https://raw.githubusercontent.com/OpenINF/openinf.github.io/live/assets/img/svg/logogram-color.svg?sanitize=true" alt="OpenINF logo" title="OpenINF" align="right" height="96" width="96" /></a>
+
+<div align="left">
+
 # Infuse.js Dark
 
 > Infuse.js Dark syntax theme
+
+<br />
+
+[!['License: MIT/Apache-2.0/Blue-Oak-1.0.0'][license-badge--shields]][license-badge-url]
+
+</div>
+
+<br />
+
+The Infuse.js Dark syntax theme was originally inspired by the [Blackboard][] color scheme;
+however, a significant amount of modifications have been made to it. Among those modifications
+include representing the color palette in an entirely new format.
 
 [![Demo of Infuse.js Dark syntax theme][spoiler-screen-cap]][spoiler-screen-cap]
 
@@ -27,22 +46,6 @@ cloned into the hidden user `extensions` directory _and_ installed via the comma
 &ldquo;Developer: Install Extensions from Location&rdquo; and had its folder correctly selected.
 
 **_[Enjoy!][spoiler-screen-cap]_**
-
-</section>
-
-<br /><br />
-
-<section id="history">
-
-## Backstory
-
-<br />
-
-<!-- <small>This is the README for VS Code extension: &ldquo;infuse-js-dark".</small> -->
-
-The Infuse.js Dark syntax theme was originally inspired by the [Blackboard][] color scheme;
-however, a significant amount of modifications have been made to it. Among those modifications
-include representing the color palette in an entirely new format.
 
 </section>
 
