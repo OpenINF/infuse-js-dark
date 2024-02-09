@@ -123,7 +123,7 @@ href="https://open.inf.is" rel="author">
 <!-- LINK LABEL DEFINITIONS - START -->
 
 [Blackboard]: https://codemirror.net/5/demo/theme.html#blackboard "Blackboard Theme Demo"
-[Changelog]: https://github.com/OpenINF/infuse-js-dark/commits/live "Changelog"
+[Changelog]: https://github.com/OpenINF/infuse-js-dark/blob/main/CHANGELOG.md "Change Log"
 [Credits]: https://github.com/OpenINF/infuse-js-dark/graphs/contributors "Credits"
 [Development]: ./collections/_docs/development.md "Development"
 [Issue Tracker]: https://github.com/OpenINF/infuse-js-dark/issues "Issues · OpenINF/infuse-js-dark"
