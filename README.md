@@ -1,3 +1,9 @@
+[![Orange banner indicating a preview software component][release-level-banner--unstable]](##)
+
+<br />
+
+<!-- markdownlint-disable-next-line line-length -->
+
 <small>This is the README for VS Code extension: &ldquo;infuse-js-dark&ldquo;.</small>
 
 <!-- markdownlint-disable-next-line line-length -->
@@ -30,6 +36,8 @@
 The Infuse.js Dark syntax theme was originally inspired by the [Blackboard][] color scheme;
 however, a significant amount of modifications have been made to it. Among those modifications
 include representing the color palette in an entirely new format.
+
+Thanks!
 
 [![Demo of Infuse.js Dark syntax theme][spoiler-screen-cap]][spoiler-screen-cap]
 
@@ -141,6 +149,7 @@ href="https://open.inf.is" rel="author">
 [Issue Tracker]: https://github.com/OpenINF/infuse-js-dark/issues "Issues · OpenINF/infuse-js-dark"
 [opening an issue]: https://github.com/OpenINF/infuse-js-dark/issues "Issues · OpenINF/infuse-js-dark"
 [license-badge--url]: ./#license "Project Licenses"
+[license-badge--shields]: ./#license "Project Licenses"
 [project-status-badge--shields]: https://img.shields.io/badge/status-under%20construction-yellow.svg
 [project-type-badge--shields]: https://img.shields.io/badge/type-prototype-blue.svg
 [prototyping-scheme-badge--shields]: https://img.shields.io/badge/scheme-evolutionary-blue.svg
