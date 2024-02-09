@@ -30,11 +30,19 @@ cloned into the extensions directory _and_ installed via the command palette opt
 
 <br /><br />
 
+<section id="backstory">
+
+## Backstory
+
+<br />
+
 <!-- <small>This is the README for VS Code extension: "infuse-js-dark".</small> -->
 
 The Infuse.js Dark syntax theme was originally inspired by the [Blackboard][]; color scheme
 however, a significant amount of modifications have been made to it. Among those modifications
 include representing the color palette now expressed in an entirely new format.
+
+</section>
 
 <br /><br />
 
