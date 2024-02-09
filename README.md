@@ -105,7 +105,8 @@ The [SPDX](https://spdx.dev) license identifier for this project is
 
 <br /><br />
 
-<a title="The OpenINF website" href="https://open.inf.is" rel="author">
+<a title="The OpenINF website" target="_blank" rel="noopener noreferrer"
+href="https://open.inf.is" rel="author">
   <img
     alt="The OpenINF logo"
     height="32px"
@@ -121,16 +122,16 @@ The [SPDX](https://spdx.dev) license identifier for this project is
 
 <!-- LINK LABEL DEFINITIONS - START -->
 
-[Blackboard]: https://codemirror.net/5/demo/theme.html#blackboard
+[Blackboard]: https://codemirror.net/5/demo/theme.html#blackboard "Blackboard Theme Demo"
 [Changelog]: https://github.com/OpenINF/infuse-js-dark/commits/live "Changelog"
 [Credits]: https://github.com/OpenINF/infuse-js-dark/graphs/contributors "Credits"
 [Development]: ./collections/_docs/development.md "Development"
-[Issue Tracker]: https://github.com/OpenINF/infuse-js-dark/issues "Issue Tracker"
-[opening an issue]: https://github.com/OpenINF/infuse-js-dark/issues
+[Issue Tracker]: https://github.com/OpenINF/infuse-js-dark/issues "Issues · OpenINF/infuse-js-dark"
+[opening an issue]: https://github.com/OpenINF/infuse-js-dark/issues "Issues · OpenINF/infuse-js-dark"
 [project-status-badge--shields]: https://img.shields.io/badge/status-under%20construction-yellow.svg
 [project-type-badge--shields]: https://img.shields.io/badge/type-prototype-blue.svg
 [prototyping-scheme-badge--shields]: https://img.shields.io/badge/scheme-evolutionary-blue.svg
 [Roadmap]: https://github.com/OpenINF/infuse-js-dark/issues "Roadmap"
-[spoiler-screen-cap]: ./assets/img/png/spoiler-screen-cap.pngg
+[spoiler-screen-cap]: ./assets/img/png/spoiler-screen-cap.png
 
 <!-- LINK LABEL DEFINITIONS - END -->
