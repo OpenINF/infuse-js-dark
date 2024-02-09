@@ -1,4 +1,4 @@
-## Infuse.js Dark
+# Infuse.js Dark
 
 > Infuse.js Dark syntax theme
 
@@ -60,9 +60,9 @@ Pull requests are welcome. If you plan to make significant changes, please open
 an issue first to discuss the change. If you notice something that needs fixing
 but can't do it yourself, please let us know by [opening an issue][].
 
-<br />
-
 </section>
+
+<br /><br />
 
 <section id="licenses">
 
