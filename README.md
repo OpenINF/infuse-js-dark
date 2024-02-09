@@ -13,20 +13,20 @@
 On macOS, all one has to do is clone this repo into the VS Code `extensions` directory.
 
 Hold <kbd><kbd>Cmd</kbd>+<kbd>P</kbd></kbd> to open the command palette, then type <kbd>C</kbd>
-and select "Color Themes", and it should show up.
+and select &ldquo;Color Themes&rdquo;, and it should show up.
 
 On both macOS and Windows, this `extensions` directory is located in the hidden `.vscode` folder
-in the user's home directory:
+in the user home directory:
 
 ```console
 ~/.vscode/extensions
 ```
 
-On Windows, the theme will not show up in the "Color Themes" drop-down until it has been both:
-cloned into the `extensions` directory _and_ installed via the command palette option of:
-"Developer: Install Extensions from Location" and then had its folder selected.
+On Windows, the theme will not show up in the &ldquo;Color Themes&rdquo; drop-down until it has been both:
+cloned into the hidden user `extensions` directory _and_ installed via the command palette and selecting
+&ldquo;Developer: Install Extensions from Location&rdquo; and had its folder correctly selected.
 
-**Enjoy!**
+**_[Enjoy!][spoiler-screen-cap]_**
 
 </section>
 
@@ -38,11 +38,11 @@ cloned into the `extensions` directory _and_ installed via the command palette o
 
 <br />
 
-<!-- <small>This is the README for VS Code extension: "infuse-js-dark".</small> -->
+<!-- <small>This is the README for VS Code extension: &ldquo;infuse-js-dark".</small> -->
 
-The Infuse.js Dark syntax theme was originally inspired by the [Blackboard][]; color scheme
+The Infuse.js Dark syntax theme was originally inspired by the [Blackboard][] color scheme;
 however, a significant amount of modifications have been made to it. Among those modifications
-include representing the color palette now expressed in an entirely new format.
+include representing the color palette in an entirely new format.
 
 </section>
 
@@ -105,8 +105,8 @@ The [SPDX](https://spdx.dev) license identifier for this project is
 
 <br /><br />
 
-<a title="The OpenINF website" target="_blank" rel="noopener noreferrer"
-href="https://open.inf.is" rel="author">
+<a title="The OpenINF website&rdquo; target="_blank&rdquo; rel="noopener noreferrer"
+href="https://open.inf.is&rdquo; rel="author">
   <img
     alt="The OpenINF logo"
     height="32px"
@@ -115,23 +115,22 @@ href="https://open.inf.is" rel="author">
   />
 </a>
 
-
 </div>
 
 <br /><br />
 
 <!-- LINK LABEL DEFINITIONS - START -->
 
-[Blackboard]: https://codemirror.net/5/demo/theme.html#blackboard "Blackboard Theme Demo"
-[Changelog]: https://github.com/OpenINF/infuse-js-dark/blob/main/CHANGELOG.md "Change Log"
-[Credits]: https://github.com/OpenINF/infuse-js-dark/graphs/contributors "Credits"
-[Development]: ./collections/_docs/development.md "Development"
-[Issue Tracker]: https://github.com/OpenINF/infuse-js-dark/issues "Issues · OpenINF/infuse-js-dark"
-[opening an issue]: https://github.com/OpenINF/infuse-js-dark/issues "Issues · OpenINF/infuse-js-dark"
+[Blackboard]: https://codemirror.net/5/demo/theme.html#blackboard &ldquo;Blackboard Theme Demo"
+[Changelog]: https://github.com/OpenINF/infuse-js-dark/blob/main/CHANGELOG.md &ldquo;Change Log"
+[Credits]: https://github.com/OpenINF/infuse-js-dark/graphs/contributors &ldquo;Credits"
+[Development]: ./collections/_docs/development.md &ldquo;Development"
+[Issue Tracker]: https://github.com/OpenINF/infuse-js-dark/issues &ldquo;Issues · OpenINF/infuse-js-dark"
+[opening an issue]: https://github.com/OpenINF/infuse-js-dark/issues &ldquo;Issues · OpenINF/infuse-js-dark"
 [project-status-badge--shields]: https://img.shields.io/badge/status-under%20construction-yellow.svg
 [project-type-badge--shields]: https://img.shields.io/badge/type-prototype-blue.svg
 [prototyping-scheme-badge--shields]: https://img.shields.io/badge/scheme-evolutionary-blue.svg
-[Roadmap]: https://github.com/OpenINF/infuse-js-dark/issues "Roadmap"
+[Roadmap]: https://github.com/OpenINF/infuse-js-dark/issues &ldquo;Roadmap"
 [spoiler-screen-cap]: ./assets/img/png/spoiler-screen-cap.png
 
 <!-- LINK LABEL DEFINITIONS - END -->
