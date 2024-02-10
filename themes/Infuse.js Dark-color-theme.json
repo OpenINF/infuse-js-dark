@@ -47,10 +47,7 @@
     },
     {
       "name": "String",
-      "scope": [
-        "string",
-        "meta.verbatim"
-      ],
+      "scope": ["string", "meta.verbatim"],
       "settings": {
         "fontStyle": "",
         "foreground": "#61CE3C"
@@ -112,10 +109,7 @@
     },
     {
       "name": "meta.tag",
-      "scope": [
-        "meta.tag",
-        "meta.tag entity"
-      ],
+      "scope": ["meta.tag", "meta.tag entity"],
       "settings": {
         "foreground": "#7F90AA"
       }
