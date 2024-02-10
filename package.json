@@ -3,7 +3,7 @@
   "license": "MIT OR Apache-2.0 OR BlueOak-1.0.0",
   "displayName": "Infuse.js Dark",
   "description": "Infuse.js Dark syntax theme",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.38.0"
   },
