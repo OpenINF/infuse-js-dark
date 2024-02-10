@@ -2,7 +2,6 @@
 	"tokenColors": [
 		{
 			"settings": {
-				// "background": "#0C1021",
 				"foreground": "#F8F8F8"
 			}
 		},
@@ -84,7 +83,6 @@
 			"name": "Invalid – Illegal",
 			"scope": "invalid.illegal",
 			"settings": {
-				// "background": "#9D1E15",
 				"foreground": "#F8F8F8"
 			}
 		},
@@ -185,14 +183,12 @@
 			"name": "LaTeX environment",
 			"scope": "text.tex.latex meta.function.environment",
 			"settings": {
-				// "background": "#FFFFFF08"
 			}
 		},
 		{
 			"name": "LaTeX environment (nested)",
 			"scope": "text.tex.latex meta.function.environment meta.function.environment",
 			"settings": {
-				// "background": "#7A96FA08"
 			}
 		},
 		{
