@@ -2,7 +2,7 @@
 	"tokenColors": [
 		{
 			"settings": {
-				"background": "#0C1021",
+				// "background": "#0C1021",
 				"foreground": "#F8F8F8"
 			}
 		},
@@ -84,7 +84,7 @@
 			"name": "Invalid – Illegal",
 			"scope": "invalid.illegal",
 			"settings": {
-				"background": "#9D1E15",
+				// "background": "#9D1E15",
 				"foreground": "#F8F8F8"
 			}
 		},
@@ -185,14 +185,14 @@
 			"name": "LaTeX environment",
 			"scope": "text.tex.latex meta.function.environment",
 			"settings": {
-				"background": "#FFFFFF08"
+				// "background": "#FFFFFF08"
 			}
 		},
 		{
 			"name": "LaTeX environment (nested)",
 			"scope": "text.tex.latex meta.function.environment meta.function.environment",
 			"settings": {
-				"background": "#7A96FA08"
+				// "background": "#7A96FA08"
 			}
 		},
 		{
@@ -215,12 +215,20 @@
 		}
 	],
 	"colors": {
-		"editor.background": "#0C1021",
+		"editor.background": "#101113",
 		"editorCursor.foreground": "#FFFFFFA6",
 		"editor.foreground": "#F8F8F8",
-		"editorWhitespace.foreground": "#FFFFFF40",
+		"editorWhitespace.foreground": "#C4C4C4C4",
+		"editorGutter.background": "#161A1D",
 		"editor.lineHighlightBackground": "#FFFFFF0F",
-		"editor.selectionBackground": "#253B76"
+		"editor.selectionBackground": "#253B76",
+		"editorIndentGuide.activeBackground1": "#0F2942",
+		"editorIndentGuide.activeBackground2": "#0F2942",
+		"editorIndentGuide.activeBackground3": "#0F2942",
+		"editorIndentGuide.activeBackground4": "#0F2942",
+		"editorIndentGuide.activeBackground5": "#0F2942",
+		"editorIndentGuide.activeBackground6": "#0F2942"
 	},
-	"name": "Infuse.js Dark"
+	"name": "Infuse.js Dark",
+	"editor.renderWhitespace": "all"
 }
