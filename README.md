@@ -22,13 +22,11 @@
 
 <div align="left">
 
-# Infuse.js Dark
+## Infuse.js Dark
 
 > Infuse.js Dark syntax theme
 
 <br />
-
-
 
 !['License: MIT/Apache-2.0/BlueOak-1.0.0'][license-badge--shields]
 
@@ -47,11 +45,11 @@ Thanks!
 
 <section id="install">
 
-## Installation
+### Installation
 
 <br />
 
-On macOS, one must clone this repo into the VS Code `extensions` directory.
+One must clone this repo into the VS Code `extensions` directory on macOS.
 
 Hold <kbd><kbd>Cmd</kbd>+<kbd>P</kbd></kbd> to open the command palette, then type <kbd>C</kbd>
 and select &ldquo;Color Themes&rdquo;, and it should show up.
@@ -67,17 +65,15 @@ On Windows, the theme will not show up in the &ldquo;Color Themes&rdquo; drop-do
 cloned into the hidden user `extensions` directory _and_ installed via the command palette and selecting
 &ldquo;Developer: Install Extensions from Location&rdquo; and had its folder correctly selected.
 
-**_[Enjoy!][spoiler-screen-cap]_**
+**_Enjoy!_**
 
 </section>
 
 <br /><br />
 
----
-
 <section id="contribution">
 
-## Contributing
+### Contributing
 
 <br />
 
@@ -91,7 +87,7 @@ but can't do it yourself, please let us know by [opening an issue][].
 
 <section id="licenses">
 
-## License
+### License
 
 <br />
 
