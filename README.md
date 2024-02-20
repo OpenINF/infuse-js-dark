@@ -28,7 +28,7 @@
 
 <br />
 
-[!['License: MIT/Apache-2.0/BlueOak-1.0.0'][license-badge--shields]][license-badge--url]
+[!['License: MIT/Apache-2.0/BlueOak-1.0.0'][license-badge--shields]][license-badge-url]
 
 
 </div>
@@ -149,7 +149,7 @@ href="https://open.inf.is" rel="author">
 [Issue Tracker]: https://github.com/OpenINF/infuse-js-dark/issues "Issues · OpenINF/infuse-js-dark"
 [opening an issue]: https://github.com/OpenINF/infuse-js-dark/issues "Issues · OpenINF/infuse-js-dark"
 [license-badge--shields]: https://img.shields.io/badge/license-MIT%2FApache--2.0%2FBlueOak--1.0.0-blue.svg?logo=github 'License: MIT/Apache-2.0/BlueOak-1.0.0'
-[license-badge--url]: ./#license 'License: MIT/Apache 2.0/BlueOak-1.0.0'
+[license-badge-url]: ./#license 'License: MIT/Apache 2.0/BlueOak-1.0.0'
 [project-status-badge--shields]: https://img.shields.io/badge/status-under%20construction-yellow.svg
 [project-type-badge--shields]: https://img.shields.io/badge/type-prototype-blue.svg
 [prototyping-scheme-badge--shields]: https://img.shields.io/badge/scheme-evolutionary-blue.svg
