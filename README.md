@@ -41,8 +41,6 @@ include representing the color palette in an entirely new format.
 
 Thanks!
 
-[![Demo of Infuse.js Dark syntax theme][spoiler-screen-cap]][spoiler-screen-cap]
-
 <section id="install">
 
 ### Installation
@@ -154,7 +152,6 @@ href="https://open.inf.is" rel="author">
 [project-type-badge--shields]: https://img.shields.io/badge/type-prototype-blue.svg
 [prototyping-scheme-badge--shields]: https://img.shields.io/badge/scheme-evolutionary-blue.svg
 [Roadmap]: https://github.com/OpenINF/infuse-js-dark/issues "Roadmap"
-[spoiler-screen-cap]: https://private-user-images.githubusercontent.com/132791922/303811764-c7ad6c06-6eba-4fbb-a17d-9320005463b9.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDc2NTUzNDMsIm5iZiI6MTcwNzY1NTA0MywicGF0aCI6Ii8xMzI3OTE5MjIvMzAzODExNzY0LWM3YWQ2YzA2LTZlYmEtNGZiYi1hMTdkLTkzMjAwMDU0NjNiOS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMjExJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDIxMVQxMjM3MjNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT04MzM0MTA5NzJlYTE0ZDc3M2Q0NmNlZjU3ODA2NmU4NzcyMmZlMTQ3OWZjYjU2Zjk5YTdlMWU2ODgxNmRhOGU3JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.FX_S6nsgUaA8_qXtdtvaKiMKbwVneH3quEYmIZESmY0 "Theme Spoiler Screen Cap"
 [release-level-banner--unstable]: https://raw.githubusercontent.com/OpenINF/openinf.github.io/live/assets/img/svg/release-level-banner--unstable.svg?sanitize=true 'Banner for Release Level: Unstable'
 
 <!-- LINK LABEL DEFINITIONS - END -->
